@@ -1,2 +1,6 @@
-*/data/*
+/data/*
 */models/*
+kaggle.json
+*/.config/*
+*/.kaggle/*
+*/.ipynb_checkpoints
