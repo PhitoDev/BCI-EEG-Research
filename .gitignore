@@ -4,3 +4,4 @@ kaggle.json
 */.config/*
 */.kaggle/*
 */.ipynb_checkpoints
+*/wandb
